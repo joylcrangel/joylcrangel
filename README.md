@@ -13,7 +13,10 @@
  <a href="https://discord.gg/upwfRbmj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joycelcrangel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="http://linkedin.com/in/joyce-rangel-codes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ </div>
+
+<div align="center">
+  
     ![Snake animation](https://github.com/joylcrangel/joylcrangel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
